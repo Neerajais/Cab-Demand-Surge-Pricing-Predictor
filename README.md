@@ -1,4 +1,3 @@
-# Cab-Demand-Surge-Pricing-Predictor
 # 🚕 Cab Demand & Surge Pricing Predictor
 
 An end-to-end **Data Analytics & Machine Learning project** that forecasts cab demand, predicts surge pricing, and estimates ride cancellation risk across multiple city zones.  
